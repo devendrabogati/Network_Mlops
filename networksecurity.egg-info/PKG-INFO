@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: networksecurity
+Version: 0.0.1
+Author: devendra bogati
+Author-email: dbofficial0047@gmail.com
+License-File: LICENSE
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Requires-Dist: pymongo[srv]
